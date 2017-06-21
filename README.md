@@ -1,3 +1,3 @@
 # repository 1
 ## hello hello
-my first repository
+I am writing my first repository and just started working at the Getty. 
